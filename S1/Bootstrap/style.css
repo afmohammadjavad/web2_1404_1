@@ -1,0 +1,30 @@
+/* It should be copmment Because we have in html with link tag. */
+/* چون در فایل اچ تی ام ال با تگ لینک، بوتسترپ رو داریم، ادیگه اینجا نیازی به وارد کردن نیست. */
+/* @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"); */
+
+:root {
+  --main-color: #3498db;
+  --spacing-large: 20px;
+}
+
+/* ----------------------------------------------------------------- */
+
+div.mb-3 {
+ margin-bottom: 2rem;
+}
+/* .mb-3 {
+ margin-bottom: 2rem !important;
+} */
+
+
+/* --------------------- */
+
+.form-container {
+  width: 300px;
+  border: 1px solid gray;
+  padding: 20px;
+  border-radius: 10px;
+
+  color: var(--main-color);
+  margin-top: var(--spacing-large);
+}
